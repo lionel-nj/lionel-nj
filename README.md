@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **lionel.nebotjanvier@estp.fr**
 
-- 📄 Know about my experiences [Download my resume](https://media-exp1.licdn.com/dms/document/C562DAQHz3iiiadSQ6Q/profile-treasury-document-pdf-analyzed/0/1619058257206?e=1619146800&v=beta&t=DTCNB5UKTte50RZV_LYAINedETSxm7m47SCN4ndl5eE)
+- 📄 Know about my experiences ➡️ [download my resume](https://media-exp1.licdn.com/dms/document/C562DAQHz3iiiadSQ6Q/profile-treasury-document-pdf-analyzed/0/1619058257206?e=1619146800&v=beta&t=DTCNB5UKTte50RZV_LYAINedETSxm7m47SCN4ndl5eE)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
