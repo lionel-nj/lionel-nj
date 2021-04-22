@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [www.lionel-nebot.com](www.lionel-nebot.com)
 
-- 💬 Ask me about **java, react, and python**
+- 💬 Ask me about **Java8+, ReactJS, NodeJS and Python**
 
 - 📫 How to reach me **lionel.nebotjanvier@estp.fr**
 
