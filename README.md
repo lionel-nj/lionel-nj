@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/lionelnebot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="lionelnebot" height="30" width="40" /></a>
+<a href="https://twitter.com/lionelnebot" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Twitter_logo.svg" alt="lionelnebot" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lionel-nebot-janvier" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/512/174/174857.png" alt="lionel-nebot-janvier" height="30" width="40" /></a>
 </p>
 
